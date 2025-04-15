@@ -12,7 +12,7 @@ Hi, I'm Boaz! I'm a data science master's student with a background in chemical 
 
 | Project | Description | Tools |
 |---------|-------------|-------|
-| [Employee Attrition Prediction](https://github.com/boazc-y-h/employee-attrition-prediction) | Built and evaluated ML models to predict employee turnover using HR data. | Python, H2O AutoML, Fairlearn, Tableau |
+| [Employee Attrition Prediction](https://github.com/boazc-y-h/employee-attrition-ibm) | Built and evaluated ML models to predict employee turnover using HR data. | Python, H2O AutoML, Fairlearn, Tableau |
 | [Selangor Air Pollution Index (API) Prediction](https://github.com/boazc-y-h/api-level-selangor) | Forecasted air pollution levels in Selangor using time series and regression models. | Python, Tableau |
 | [Vehicle Insurance Claim Fraud Detection](https://github.com/boazc-y-h/vehicle-insurance-fraud-detection) | Detected potential fraudulent claims using classification models and data exploration. | Python, Flask, Tableau |
 
