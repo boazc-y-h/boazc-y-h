@@ -18,7 +18,11 @@ Hi, I'm Boaz! I'm a data science master's student with a background in chemical 
 | [Customer Booking Analysis](https://github.com/boazc-y-h/agoda) |EDA and K-Means Clustering for Agoda’s Flights and Hotels | SQL, PySpark, PowerBI |
 
 
-## 🌱 Learning/Coursework
+## 🌱 Learning/Coursework/Job Simulation
+
+| Project | Description | Tools |
+|---------|-------------|-------|
+| [Quantium Data Analytics Job Simulation](https://github.com/boazc-y-h/forage-quantium) |  <ul><li>EDA of chips transactions and customers</li><li>Evaluation of trial store campaigns</li><li>Recommendations based on derived insights</li> | Python|
 (coming soon — )
 
 ## 📫 How to Reach Me
